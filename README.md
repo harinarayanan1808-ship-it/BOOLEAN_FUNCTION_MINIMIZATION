@@ -64,8 +64,8 @@ Developed by: HARINARAYANAN.A RegisterNumber: 25017317
 **RTL**
 
 **Timing Diagram**
+![WhatsApp Image 2025-11-24 at 08 07 36_ab03c7dd](https://github.com/user-attachments/assets/dbfd04c5-202c-4b5f-a3c3-b46e661c2747)
 
-<img width="1317" height="366" alt="Screenshot 2025-11-18 200755" src="https://github.com/user-attachments/assets/82e32f82-152c-47c2-b1e7-551462b7b5d5" />
 
 **Result:**
 
